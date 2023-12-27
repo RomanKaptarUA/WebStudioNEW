@@ -1,0 +1,104 @@
+
+
+
+   
+   
+   
+
+   
+   team
+   
+
+   
+      /*header*/
+      .logo{
+       color: var(--logo-color);
+       font-family: 'Raleway';
+       font-size: 26px;
+       font-weight: 700;
+       line-height: normal;
+       letter-spacing: 0,78px;
+       text-decoration: none;
+   
+      }
+   
+      .blue{
+       color: var(--background-button-color);
+      }
+   
+   
+   
+   /*post*/
+
+
+   
+
+   
+   
+   
+   /*benefits*/
+   
+   
+   
+   
+   span{
+       color: var(--second-text-color);
+   }
+   
+   .web{
+       color: var(--background-button-color);
+   }
+   
+
+   
+   .phone-number,
+   .email{
+       color: var(--primary-text-color);
+       font-weight: 400;
+       line-height: 24px;
+       letter-spacing: 0.42px;
+       cursor: pointer;
+       text-decoration: none;
+   }
+   
+   
+   
+   .section-title{
+       color: #212121;
+       
+   }
+   
+   .benefits-list{
+       list-style-type: none;
+   }
+   
+   .site-list{
+       list-style-type: none;
+   }
+   
+   .contacts-list{
+       list-style-type: none;
+   }
+   
+
+   
+   
+   
+
+   
+   .phone-number{
+       color: #757575;
+   }
+   
+   .web1{
+       color: #2196F3;
+   }
+   
+
+   
+
+   
+   .button-link:hover,
+   .button-link:focus{
+       background-color: var(--background-button-color);
+   }

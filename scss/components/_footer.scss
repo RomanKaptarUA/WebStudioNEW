@@ -1,0 +1,25 @@
+.page-footer{
+    background-color: $secondary-background-color;
+    height: 252px;
+    width: 1600px;
+    text-align: center;
+    white-space: 80px;
+}
+
+.footer-logo{
+    font-family: 'Raleway';
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0.78px;
+    text-decoration: none;
+    color: $backgroun-team-color;
+}
+
+.adress-text{
+    color: $second-text-color;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    cursor: pointer;
+    text-decoration: none;
+}

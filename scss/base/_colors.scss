@@ -1,41 +1,12 @@
-:root{
-    --primary-text-color: #757575;
-    --title-text-color: #212121;
-    --second-text-color: #ffffff;
-    --background-button-color: #2196F3;
-    --primary-background-color: #FFF;
-    --backgroun-team-color: #F5F4FA;
-    --logo-color: #000;
-    --secondary-background-color: #2f303A;
-    --background-color-auto: #008cff;
-    --time-function: cubic-bezier(0.4, 0, 0.2, 1);
-   }
-   *,
-::after,
-::before {
-  box-sizing: border-box;
-}
 
-h1, h2, h3, h4, h5, h6, p {
-margin-bottom: 0;
-margin-top: 0;
-}
+    $primary-text-color: #757575;
+    $title-text-color: #212121;
+    $second-text-color: #ffffff;
+    $background-button-color: #2196F3;
+    $primary-background-color: #FFF;
+    $backgroun-team-color: #F5F4FA;
+    $logo-color: #000;
+    $secondary-background-color: #2f303A;
+    $background-color-auto: #008cff;
+    $time-function: cubic-bezier(0.4, 0, 0.2, 1);
 
-ul, ol {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-a{
-    text-decoration: none;
-    cursor: pointer;
-    color: var(--title-text-color);
-}
-
-.container{
-    width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 0 auto;
-}

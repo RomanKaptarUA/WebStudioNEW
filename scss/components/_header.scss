@@ -1,0 +1,37 @@
+
+
+.header-link:hover,
+   .header-link:focus{
+       color: $background-button-color;
+   }
+
+   .site{
+    color: $title-text-color;
+}
+
+.site-nav{
+    height: 80px;
+    width: 1600px;
+}
+
+.site-list{
+    color: $title-text-color;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+
+    &:hover{
+        color: $background-button-color;
+    }
+
+    &__link{
+        text-decoration: none;
+        color: $title-text-color;
+    }
+}
+
+
+span{
+    color: #2196F3;
+   }
